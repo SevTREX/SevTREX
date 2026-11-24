@@ -1,13 +1,13 @@
 <table>
   <tr>
-    <td valign="top" width="55%" padding="20px">
+    <td valign="top" width="55%">
       <h1>Kurl Steve Maglangit Estrellanes</h1>
       <p><b>Bachelor of Science in Computer Science — 2nd Year — NORSU</b></p>
       <p>Bayawan City, Negros Oriental, PH</p>
       <p>Doing random bs.</p>
     </td>
-    <td valign="top" width="45%" align="center" padding="20px">
-      <h2>Cure Tech Stack</h2>
+    <td valign="top" width="45%" align="center">
+      <h2>Core Tech Stack</h2>
       <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,mysql,docker,git,linux&theme=dark" alt="Tech Stack" />
     </td>
   </tr>
