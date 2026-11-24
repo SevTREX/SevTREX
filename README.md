@@ -1,8 +1,8 @@
 # Kurl Steve Maglangit Estrellanes
 
-BS Computer Science - 2nd Year - NORSU
-Bayawan City, Negros Oriental, PH
-Doing random bs.
+- BS Computer Science - 2nd Year - NORSU
+- Bayawan City, Negros Oriental, PH
+- Doing random bs.
 
 ---
 
