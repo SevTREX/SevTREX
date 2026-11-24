@@ -9,5 +9,5 @@ Doing randomg bs
 ## Core Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,hono,tailwind,nodejs,mysql,docker,git,linux&theme=dark" alt="Core Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,drizzle,tailwind,nodejs,mysql,docker,git,linux&theme=dark" alt="Core Tech Stack" />
 </div>
